@@ -1,0 +1,78 @@
+html{
+	
+	        background-image:url(../image/01.png);
+			background-repeat: no-repeat; 50%;
+			background-size: cover;
+			
+}
+h1{
+	        font-size:45pt;
+			font-family: 'Permanent Marker', cursive;
+			color:white;
+			text-align: center;
+			
+			
+			
+}
+h2{
+    font-size: 30pt;
+    font-family: 'Permanent Marker', cursive;
+    color:#ff0078;
+    text-align: center;
+}
+body{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+a {
+    
+            font-size: 18pt;
+            font-family: 'Pacifico', cursive;
+            color:#ff0078;
+            letter-spacing: 4px;
+            text-decoration: none;
+            
+}
+
+a:visited, a:link {
+    padding: 5px 5px;
+}
+a:hover {
+    color: yellow;
+}
+
+P{
+   font-family: 'Gochi Hand', cursive;
+    color:white;
+    width: 960px;
+    font-size: 15pt;
+    font-weight: 50px;
+    text-align: center;
+}
+div{
+    font-size: 15pt;
+    font-family: serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+
+    
+}
+li{
+    font-size: 20pt;
+    text-align: center;
+}
+footer{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    font-size: 10pt;
+    font-family: serif;
+    color: #ff0078;
+    text-align: center;
+}
